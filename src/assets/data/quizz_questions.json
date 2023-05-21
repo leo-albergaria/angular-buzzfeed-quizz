@@ -1,55 +1,55 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Seriez-vous un héros ou un méchant?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Quelle super puissance choisissez-vous?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Des rayons-lasers ", "alias":"A"},
+        {"id": 2, "name":"Voler", "alias":"B"},
+        {"id": 3, "name":"Exploser les choses", "alias":"A"},
+        {"id": 4, "name":"Blesser", "alias":"B"},
+        {"id": 5, "name":"Pointilleux", "alias":"A"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Qui tu saurais en premier ?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Enfants", "alias":"A"},
+        {"id": 2, "name":"Âgé", "alias":"A"},
+        {"id": 3, "name":"Je ne saurais pas comment choisir", "alias":"B"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Quelle est votre plus grande préoccupation face à un autre super ?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Ne détruisez pas les bâtiments", "alias":"B"},
+        {"id": 2, "name":"Le visage de l'ennemi", "alias":"A"},
+        {"id": 3, "name":"Ne salisez pas mon costume", "alias":"A"},
+        {"id": 4, "name":"Ne laissez personne blesser", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Quel est votre plus grand objectif?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Être riche avec des pouvoirs", "alias":"A"},
+        {"id": 2, "name":"Sauver la ville", "alias":"B"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Quel est votre super surnom ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Le terrible", "alias":"A"},
+        {"id": 2, "name":"Ami du quartier", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Vous seriez très probablement un super méchant!",
+    "B": "Vous seriez très probablement un super héros! "
   }
 }
